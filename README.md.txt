@@ -16,7 +16,7 @@
 }
 
 @http('POST', '/upload')
--berfungsi untuk upload file 
+-berfungsi untuk upload file hanya jpg file
 
 @http('GET', '/download/<int:idgambar>')
 --berfungsi untuk dwonload gambar dengan kepemilikan user tertentu dan juga id tertentu gambar yang dimiliki
